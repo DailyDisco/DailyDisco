@@ -6,7 +6,7 @@
 - 
 - 💞️ I’m looking to collaborate on ... big projects that have to do with mobile web app development or video games. 
 - 
-- 📫 How to reach me ...
+- 📫 How to reach me ... follow me on Twitter @WebDevDiego or visit my site on https://developerdiego.netlify.app/.
 
 <!---
 DailyDisco/DailyDisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
