@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on big projects with teams whether it be open source, AI work, or creating a video game. I would also love to collaborate on a few Swift projects.
 - 
 - 📫 How to reach me ... follow me on Twitter @WebDevDiego or visit my site (more to come) on https://developerdiego.netlify.app/.
+- feel free to follow me on https://replit.com/@DailyDisco.
 
 <!---
 DailyDisco/DailyDisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
