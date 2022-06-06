@@ -20,7 +20,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Meeting more developers and an AI social media site named The Daily Disco**
+- 🔭 I’m currently working on **Meeting more developers, an AI social media site named, "The Daily Disco", and coding tutorials**
 
 - 🌱 I’m currently learning **Next JS, Machine Learning, Neural Networks, AWS Cloud services**
 
