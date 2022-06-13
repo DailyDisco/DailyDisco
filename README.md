@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Meeting more developers and an AI social media site named The Daily Disco**
 
-- 🌱 I’m currently learning **Next JS, Machine Learning, Neural Networks, AWS Cloud**
+- 🌱 I’m currently learning **Next JS, Machine Learning, Neural Networks, AWS Cloud services**
 
 - 👯 I’m looking to collaborate on **Any Hackathons**
 
