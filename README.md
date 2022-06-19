@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diego, you can call me Dee.
+- 👋 Hi, I’m Diego, you can call me D.
 - 
 - 👀 I’m interested in ... working with Artifical Intelligence speficially in Machine Learning or NLP (Natural Language Processing). I would also like to learn languages such as Go, and have a better understanding of complex JavaScript and Python.
 - 
