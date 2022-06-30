@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/webdevdiego" target="blank"><img src="https://img.shields.io/twitter/follow/webdevdiego?logo=twitter&style=for-the-badge" alt="webdevdiego" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack Hospital-Messanger**
+- 🔭 I’m currently working on **a Full-Stack Hospital-Messanger web App using MERN stack.**
 
 - 🌱 I’m currently learning **React, Data Visualization, Data Science with Python**
 
