@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **diegoespinowork@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQXw-0rzeN3A-aTueIH-M2cEFYiO6d6swmL5D_Xj2wwG4xGaLqtn1HCLbKEya6Qt_dsTTWpemB9M6bj/pub](https://docs.google.com/document/d/e/2PACX-1vQXw-0rzeN3A-aTueIH-M2cEFYiO6d6swmL5D_Xj2wwG4xGaLqtn1HCLbKEya6Qt_dsTTWpemB9M6bj/pub)
+- 📄 My experiences and resume: [https://docs.google.com/document/d/e/2PACX-1vQXw-0rzeN3A-aTueIH-M2cEFYiO6d6swmL5D_Xj2wwG4xGaLqtn1HCLbKEya6Qt_dsTTWpemB9M6bj/pub](https://docs.google.com/document/d/e/2PACX-1vQXw-0rzeN3A-aTueIH-M2cEFYiO6d6swmL5D_Xj2wwG4xGaLqtn1HCLbKEya6Qt_dsTTWpemB9M6bj/pub)
 
-- ⚡ Fun fact **I am learning Japanese, how to play the piano, and love to produce on Ableton!**
+- ⚡ Fun facts: **I am learning Japanese, how to play the piano, and love to produce on Ableton!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
