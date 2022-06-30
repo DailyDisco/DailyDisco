@@ -1,15 +1,38 @@
-- 👋 Hi, I’m Diego, you can call me D.
-- 
-- 👀 I’m interested in ... working with Artifical Intelligence speficially in Machine Learning or NLP (Natural Language Processing). I would also like to learn languages such as Go, and have a better understanding of complex JavaScript and Python.
-- 
-- 🌱 I’m currently learning ... more skills with JavaScript and Python. I am also learning how to network and be more active on GitHub, Twitter, and LinkedIn. 
-- 
-- 💞️ I’m looking to collaborate on big projects with teams whether it be open source, AI work, or creating a video game. I would also love to collaborate on a few Swift projects.
-- 
-- 📫 How to reach me ... follow me on Twitter @WebDevDiego or visit my site (more to come) on https://developerdiego.netlify.app/.
-- feel free to follow me on https://replit.com/@DailyDisco.
+<h1 align="center">Hi 👋, I'm Diego</h1>
+<h3 align="center">A software engineer obessesed with AI & Tech</h3>
 
-<!---
-DailyDisco/DailyDisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dailydisco&label=Profile%20views&color=0e75b6&style=flat" alt="dailydisco" /> </p>
+
+<p align="left"> <a href="https://twitter.com/webdevdiego" target="blank"><img src="https://img.shields.io/twitter/follow/webdevdiego?logo=twitter&style=for-the-badge" alt="webdevdiego" /></a> </p>
+
+- 🔭 I’m currently working on **Full-Stack Hospital-Messanger**
+
+- 🌱 I’m currently learning **React, Data Visualization, Data Science with Python**
+
+- 👯 I’m looking to collaborate on **a Social Media App**
+
+- 🤝 I’m looking for help with **Tik-Tak-Toe JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://developerdiego.netlify.app/](https://developerdiego.netlify.app/)
+
+- 📫 How to reach me **diegoespinowork@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQXw-0rzeN3A-aTueIH-M2cEFYiO6d6swmL5D_Xj2wwG4xGaLqtn1HCLbKEya6Qt_dsTTWpemB9M6bj/pub](https://docs.google.com/document/d/e/2PACX-1vQXw-0rzeN3A-aTueIH-M2cEFYiO6d6swmL5D_Xj2wwG4xGaLqtn1HCLbKEya6Qt_dsTTWpemB9M6bj/pub)
+
+- ⚡ Fun fact **I am learning Japanese, how to play the piano, and love to produce on Ableton!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/webdevdiego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdevdiego" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/developerdiego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/developerdiego/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dailydisco&show_icons=true&locale=en&layout=compact" alt="dailydisco" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dailydisco&show_icons=true&locale=en" alt="dailydisco" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dailydisco&" alt="dailydisco" /></p>
+
