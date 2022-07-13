@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dailydisco&label=Profile%20views&color=0e75b6&style=flat" alt="dailydisco" /> </p>
 -->
 
-<p align="left"> <a href="https://twitter.com/digitaIDiego" target="blank"><img src="https://img.shields.io/twitter/follow/webdevdiego?logo=twitter&style=for-the-badge" alt="webdevdiego" /></a> </p>
+<p align="left"> <a href="https://twitter.com/digitaIDiego" target="blank"><img src="https://img.shields.io/twitter/follow/digitalDiego?logo=twitter&style=for-the-badge" alt="webdevdiego" /></a> </p>
 
 - 🔭 I’m currently working on **a Full-Stack Hospital-Messanger web App using MERN stack.**
 
