@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a Full-Stack Hospital-Messanger web App using MERN stack.**
 
-- 🌱 I’m currently learning **React, Data Visualization, Data Science with Python**
+- 🌱 I’m currently learning **React, Data Visualization, Data Science with Python, and AI**
 
 - 👯 I’m looking to collaborate on **a Social Media App**
 
