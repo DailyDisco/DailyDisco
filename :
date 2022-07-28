@@ -1,0 +1,17 @@
+nickname
+ Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun Jul 24 02:12:37 2022 -0500
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   README.md
+#
+
+
+wq
+:wq:w
