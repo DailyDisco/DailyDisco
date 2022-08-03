@@ -78,7 +78,7 @@
       <h3 align="center">Electric Realm</h3>
         <br />
         <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
-            <img src="" width="100%" alt="Electric Realm Music Site"/>
+            <img src="images/ElectricRealm.png" width="100%" alt="Electric Realm Music Site"/>
         </a>
         <br />
         <p align="center">
