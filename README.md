@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Data Visualization, Data Science with Python, and AI**
 
-- 👯 I’m looking to collaborate on **a Social Media App or a Ecommerce App**
+- 👯 I’m looking to collaborate on **a Social Media App or a E-commerce App**
 
 - 🤝 I’m looking for help with **Tik-Tak-Toe JavaScript**
 
