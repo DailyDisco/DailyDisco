@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/digitaIDiego" target="blank"><img src="https://img.shields.io/twitter/follow/digitaIDiego?logo=twitter&style=for-the-badge" alt="digitaIDiego" /></a> </p>
 
-- 🔭 I’m currently working on **a Full-Stack Hospital-Messanger web App using MERN stack.**
+- 🔭 I’m currently working on **a Full-Stack Hospital-Messenger web App using MERN stack.**
 
 - 🌱 I’m currently learning **React, Data Visualization, Data Science with Python, and AI**
 
