@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Tik-Tak-Toe JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://developerdiego.netlify.app/](https://developerdiego.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://digitaldiego.netlify.app/](https://digitaldiego.netlify.app/)
 
 - 📫 How to reach me: **diegoespinowork@gmail.com or through Twitter**
 
