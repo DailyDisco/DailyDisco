@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **a Social Media App or a E-commerce App**
 
-- 🤝 I’m looking for help with **Tik-Tak-Toe JavaScript**
+- 🤝 I’m looking for help with **Converting my portfolio to a mobile first approach**
 
 - 👨‍💻 All of my projects are available at [https://digitaldiego.netlify.app/](https://digitaldiego.netlify.app/)
 
