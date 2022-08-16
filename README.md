@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://digitaldiego.netlify.app/](https://digitaldiego.netlify.app/)
 
-- 📫 How to reach me: **diegoespinowork@gmail.com, Twitter, or LinkedIn*
+- 📫 How to reach me: **diegoespinowork@gmail.com, Twitter, or LinkedIn**
 
 - 📄 My experiences and resume: [https://tinyurl.com/yc2f2d7b](https://tinyurl.com/yc2f2d7b)
 
