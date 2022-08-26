@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Converting my portfolio to a mobile first approach**
 
-- 👨‍💻 All of my projects are available at [https://digitaldiego.netlify.app/](https://digitaldiego.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
 - 📫 How to reach me: **diegoespinowork@gmail.com, Twitter, or LinkedIn**
 
