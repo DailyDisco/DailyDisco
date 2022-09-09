@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://twitter.com/digitaIDiego" target="blank"><img src="https://img.shields.io/twitter/follow/digitaIDiego?logo=twitter&style=for-the-badge" alt="digitaIDiego" /></a> </p>
 
-- 🔭 I’m currently working on **Documenting my past projects for others to use + turning my portfolio site to a mobile first approach.**
+<!-- - 🔭 I’m currently working on ** ** -->
 
-- 🌱 I’m currently learning **React, Data Visualization, Data Science with Python, and Machine Learning**
+- 🌱 I’m currently learning **Neural Networks, AWS Cloud, and React/Next**
 
 - 👯 I’m looking to collaborate on **a Social Media App or a Discord clone**
 
