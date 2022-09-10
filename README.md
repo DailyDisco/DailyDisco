@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **a Social Media App or a Discord clone**
 
-- 🤝 I’m looking for help with **Converting my portfolio to a mobile first approach**
+- 🤝 I’m looking for help with **Getting Stable Diffusion on my website**
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
