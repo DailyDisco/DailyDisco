@@ -21,7 +21,7 @@
 
 - 📄 My experiences and resume: [https://tinyurl.com/yc2f2d7b](https://tinyurl.com/yc2f2d7b)
 
-- ⚡ Fun facts: **I am learning Japanese, how to play the piano, and love to produce on Ableton!**
+- ⚡ Fun facts: **I speak Spanish and I am learning Japanese, how to play the piano, and love to produce on Ableton!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
