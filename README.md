@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/digitaIDiego" target="blank"><img src="https://img.shields.io/twitter/follow/digitaIDiego?logo=twitter&style=for-the-badge" alt="digitaIDiego" /></a> </p>
 
-- 🔭 I’m currently working on **Networking and building a MERN app using OPENAI's API**
+- 🔭 I’m currently working on **Networking and updating my GitHub with GIF's and better documentation**
 
 - 🌱 I’m currently learning **Neural Networks, AWS Cloud, React/Next**
 
