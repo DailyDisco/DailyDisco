@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Networking and building a MERN app using OPENAI's API**
 
-- 🌱 I’m currently learning **Neural Networks, AWS Cloud, and React/Next**
+- 🌱 I’m currently learning **Neural Networks, AWS Cloud, React/Next**
 
-- 👯 I’m looking to collaborate on **a Social Media App or a Discord clone**
+- 👯 I’m looking to collaborate on **a Social Media App that involves AI generated content.**
 
-- 🤝 I’m looking for help with **Getting Stable Diffusion on my website**
+- 🤝 I’m looking for help with **Converting a Next.JS/AWS app into an IOS deployable app**
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
