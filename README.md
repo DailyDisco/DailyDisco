@@ -59,6 +59,39 @@
 <table bordercolor="#66b2b2">
 
   <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Voice to Image AI generator</h3>
+        <br />
+        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
+            <img src="" width="100%" alt="Voice2img generator"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/DailyDisco/AI-voice-to-image">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p>Generate AI images using your voice!</p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Electric Realm</h3>
+        <br />
+        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
+            <img src="" width="100%" alt="Electric Realm Music Site"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/DailyDisco/electric-realm">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p>A place to discover, share, and talk all things sound</p>
+    </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">The Daily Disco</h3>
         <br />
@@ -90,40 +123,6 @@
   </a> 
       </p>
         <p><strong>This branding-generator-ai is used to generate descriptions for products or services that someone may be selling. The descriptions can easily be tweaked to be longer, or shorter, and can also be modified for generating other types of text.</p>
-    </td>
-  </tr>
-  
- 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Voice to Image AI generator</h3>
-        <br />
-        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
-            <img src="" width="100%" alt="Voice2img generator"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/DailyDisco/AI-voice-to-image">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-      </p>
-        <p>Generate AI images using your voice!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Electric Realm</h3>
-        <br />
-        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
-            <img src="" width="100%" alt="Electric Realm Music Site"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/DailyDisco/electric-realm">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-      </p>
-        <p>A place to discover, share, and talk all things sound</p>
     </td>
   </tr>
  
