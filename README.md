@@ -34,12 +34,66 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dailydisco&show_icons=true&locale=en&layout=compact" alt="dailydisco" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dailydisco&show_icons=true&locale=en&layout=compact" alt="dailydisco" /></p>
 
 <!--
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dailydisco&show_icons=true&locale=en" alt="dailydisco" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dailydisco&show_icons=true&locale=en" alt="dailydisco" /></p>
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dailydisco&" alt="dailydisco" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dailydisco&" alt="dailydisco" /></p>
 
+# <h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AI resume bio generator</h3>
+        <br />
+        <a target="_blank" href="https://resume-bio-generator.vercel.app/">
+            <img src="imgs/resumeBioGitHub.gif" width="100%" alt="resume bio generator"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/DailyDisco/branding-generator-ai" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>This branding-generator-ai is used to generate descriptions for products or services that someone may be selling. The descriptions can easily be tweaked to be longer, or shorter, and can also be modified for generating other types of text.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+        <br />
+      <a target="_blank" href="https://www.digitaldiego.xyz/">
+            <img src="imgs/portfolioExampleGitHub.gif" width="100%"  alt="Portfolio"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/DailyDisco/react-portfolio-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>This is the personal portfolio site that I use.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Medical Pager</h3>
+        <br />
+        <a target="_blank" href="https://medical-pager-demo.netlify.app/">
+            <img src="imgs/justteasgif" width="100%" alt="Medical Pager app/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/DailyDisco/medical-pager" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>Medical Pager demo app with security and privacy.</p>
+    </td>
+  </tr>
+</table>
