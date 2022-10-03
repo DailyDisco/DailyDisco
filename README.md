@@ -56,6 +56,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dailydisco&" alt="dailydisco" /></p>
 
+<!-- 
+
+
 # <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 
@@ -110,6 +113,8 @@
     </td>
   </tr>
 </table>
+
+-->
 
 <!--
 
