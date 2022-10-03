@@ -56,7 +56,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dailydisco&" alt="dailydisco" /></p>
 
-<!-- 
 
 
 # <h1 align="center">Projects</h1>
@@ -100,7 +99,7 @@
       <h3 align="center">Medical Pager</h3>
         <br />
         <a target="_blank" href="https://medical-pager-demo.netlify.app/">
-            <img src="images/justteasgif" width="100%" alt="Medical Pager app"/>
+            <img src="images/medical-pager-final-example-github.gif" width="100%" alt="Medical Pager app"/>
         </a>
         <br />
         <p align="center">
@@ -113,8 +112,6 @@
     </td>
   </tr>
 </table>
-
--->
 
 <!--
 
