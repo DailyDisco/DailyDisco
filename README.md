@@ -22,11 +22,11 @@
 
 - 🔭 I’m currently working on **Networking and updating my GitHub with GIF's and better documentation**
 
-- 🌱 I’m currently learning **Neural Networks, AWS Cloud, React/Next**
+- 🌱 I’m currently learning **Neural Networks, AWS Cloud, Next**
 
 - 👯 I’m looking to collaborate on **a Social Media App that involves AI generated content.**
 
-- 🤝 I’m looking for help with **Converting a Next.JS/AWS app into an IOS deployable app**
+- 🤝 I’m looking for help with **Converting a Next.JS/AWS app into an IOS deployable app using Capacitor and Ionic**
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
