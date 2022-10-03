@@ -5,8 +5,20 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dailydisco&label=Profile%20views&color=0e75b6&style=flat" alt="dailydisco" /> </p>
 -->
-
-<p align="center"> <a href="https://twitter.com/digitaIDiego" target="blank"><img src="https://img.shields.io/twitter/follow/digitaIDiego?logo=twitter&style=for-the-badge" alt="digitaIDiego" /></a> </p>
+<p align="center">
+  <a href="https://www.digitaldiego.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/developerdiego/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/digitaIDiego" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://tinyurl.com/yc2f2d7b" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Networking and updating my GitHub with GIF's and better documentation**
 
@@ -98,3 +110,18 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://www.digitaldiego.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/developerdiego/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/digitaIDiego" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://tinyurl.com/yc2f2d7b" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
