@@ -63,10 +63,10 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AI resume bio generator</h3>
+      <h3 align="center">AI Marketing Text generator</h3>
         <br />
         <a target="_blank" href="https://resume-bio-generator.vercel.app/">
-            <img src="images/resumeBioGitHub.gif" width="100%" alt="resume bio generator"/>
+            <img src="images/brandingGeneratorShort.gif" width="100%" alt="resume bio generator"/>
         </a>
         <br />
         <p align="center">
@@ -81,7 +81,7 @@
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://www.digitaldiego.xyz/">
-            <img src="images/portfolioExampleGitHub.gif" width="100%"  alt="Portfolio"/>
+            <img src="images/shortestPorftolio.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -99,7 +99,7 @@
       <h3 align="center">Medical Pager</h3>
         <br />
         <a target="_blank" href="https://medical-pager-demo.netlify.app/">
-            <img src="images/medical-pager-final-example-github.gif" width="100%" alt="Medical Pager app"/>
+            <img src="images/medicalPagerShorter.gif" width="100%" alt="Medical Pager app"/>
         </a>
         <br />
         <p align="center">
