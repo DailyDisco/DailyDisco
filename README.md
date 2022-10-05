@@ -81,7 +81,7 @@
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://www.digitaldiego.xyz/">
-            <img src="images/shortestPorftolio.gif" width="100%"  alt="Portfolio"/>
+            <img src="images/shortestPortfolio.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
