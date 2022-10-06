@@ -1,6 +1,6 @@
 <!-- img src="" width="100%"> -->
 <h1 align="center">Hi 👋, I'm Diego or just D</h1>
-<h3 align="center">A software engineer obessesed with AI & Tech</h3>
+<h3 align="center">A software engineer obsessed with AI & Tech</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dailydisco&label=Profile%20views&color=0e75b6&style=flat" alt="dailydisco" /> </p>
