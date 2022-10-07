@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Neural Networks, AWS Cloud, Next**
 
-- 👯 I’m looking to collaborate on **a Social Media App that involves AI generated content.**
+- 👯 I’m looking to collaborate on **Any Hackathons**
 
 - 🤝 I’m looking for help with **Converting a Next.JS/AWS app into an IOS deployable app using Capacitor and Ionic**
 
