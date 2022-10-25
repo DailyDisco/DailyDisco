@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **Any Hackathons**
 
-- 🤝 I’m looking for help with **Converting a Next.JS/AWS app into an IOS deployable app using Capacitor and Ionic**
+- 🤝 I’m looking for help with **Converting a Next.JS/AWS app into an IOS deployable app using React Native**
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
@@ -34,7 +34,7 @@
 
 - 📄 My experiences and resume: [https://tinyurl.com/yc2f2d7b](https://tinyurl.com/yc2f2d7b)
 
-- ⚡ Fun facts: **I speak English, Spanish and I am learning Japanese, how to play the piano, and love to produce on Ableton!**
+- ⚡ Fun facts: **I speak English, Spanish and I am learning Japanese, how to play the piano, and love to produce bass music on Ableton!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
