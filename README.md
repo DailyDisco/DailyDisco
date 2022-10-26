@@ -34,7 +34,7 @@
 
 - 📄 My experiences and resume: [https://tinyurl.com/yc2f2d7b](https://tinyurl.com/yc2f2d7b)
 
-- ⚡ Fun facts: **I speak English, Spanish and I am learning Japanese, how to play the piano, and love to produce bass music on Ableton!**
+- ⚡ Fun facts: **I speak English, Spanish and I am learning Japanese. I love anime and all kinds of films. I am also learning how to play the piano, and love to produce bass music on Ableton!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
