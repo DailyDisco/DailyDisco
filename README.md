@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Networking and updating my GitHub with better documentation**
 
-- 🌱 I’m currently learning **Neural Networks, AWS Cloud, Next 13**
+- 🌱 I’m currently learning **Machine Learning, Neural Networks, AWS Cloud, Next 13**
 
 - 👯 I’m looking to collaborate on **Any Hackathons**
 
