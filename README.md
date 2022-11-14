@@ -68,13 +68,13 @@
         <img src="images/socialCover1.jpg" width="100%"  alt="Portfolio"/>
       </a>
         <br />
-      <p align="center"></p>
+      <p align="center">The Daily Disco</p>
           
       <a href='https://thedailydisco.vercel.app/'>
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>
       </p>
-        <p><strong>This is my personal social media site that I have been creating for AI generated pictures and AI application tutorials</p>
+        <p>This is my personal social media site that I have been creating for AI generated pictures and AI application tutorials</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
@@ -88,7 +88,7 @@
   <a href="https://github.com/DailyDisco/stable-diffusion-hackathon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-        <p><strong>Immersive books using stable diffusion.</p>
+        <p>Immersive books using stable diffusion.</p>
     </td>
   </tr>
   
@@ -100,7 +100,7 @@
             <img src="" width="100%" alt="Voice2img generator"/>
         </a>
         <br />
-        <p align="center"> </p>
+        <p align="center">Voice2 Image AI</p>
           
   <a href="https://github.com/DailyDisco/AI-voice-to-image">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -119,7 +119,7 @@
   <a href="https://github.com/DailyDisco/branding-generator-ai" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-        <p><strong>This branding-generator-ai is used to generate descriptions for products or services that someone may be selling. The descriptions can easily be tweaked to be longer, or shorter, and can also be modified for generating other types of text.</p>
+        <p>This branding-generator-ai is used to generate descriptions for products or services that someone may be selling. The descriptions can easily be tweaked to be longer, or shorter, and can also be modified for generating other types of text.</p>
     </td>
   </tr>
 </table>
