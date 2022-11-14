@@ -70,10 +70,11 @@
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/DailyDisco/stable-diffusion-hackathon" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a> 
-         </p>
+          
+  <a href="https://github.com/DailyDisco/stable-diffusion-hackathon" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
         <p><strong>Immersive books using stable diffusion.</p>
     </td>
     
@@ -85,9 +86,10 @@
         </a>
         <br />
         <p align="center">
-          <a href="https://thedailydisco.vercel.app/">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>
+          
+  <a href='https://thedailydisco.vercel.app/'>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
       </p>
         <p><strong>This is my personal social media site that I have been creating for AI generated pictures and AI application tutorials</p>
     </td>
@@ -97,7 +99,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Voice to Image AI generator</h3>
         <br />
-        <a target="_blank" href="https://github.com/DailyDisco/AI-voice-to-image">
+        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
             <img src="" width="100%" alt="Voice2img generator"/>
         </a>
         <br />
