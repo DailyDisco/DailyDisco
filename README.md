@@ -113,9 +113,9 @@
         <td width="50%" valign="top">
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
         <br />
-<!--         <a target="_blank" href="https://medical-pager-demo.netlify.app/"> -->
+        <a target="_blank" href="https://github.com/DailyDisco/stable-diffusion-hackathon">
             <img src="images/iezgif.com-gif-maker.gif" width="100%" alt="AI book illustrator app"/>
-<!--         </a> -->
+        </a>
         <br />
         <p align="center">
           
