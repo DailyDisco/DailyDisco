@@ -81,7 +81,7 @@
       <h3 align="center">The Daily Disco</h3>
         <br />
       <a target='https://github.com/DailyDisco/the-template'>
-            <img src="socialCover.gif" width="100%"  alt="Portfolio"/>
+            <img src="socialCover1.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -98,13 +98,13 @@
     <td width="50%" valign="top">
       <h3 align="center">Voice to Image AI generator</h3>
         <br />
-        <a target="_blank" href="[https://medical-pager-demo.netlify.app/](https://github.com/DailyDisco/AI-voice-to-image)">
+        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
             <img src="" width="100%" alt="Voice2img generator"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="[https://github.com/DailyDisco/medical-pager](https://github.com/DailyDisco/AI-voice-to-image)" target="_blank">
+  <a href="https://github.com/DailyDisco/AI-voice-to-image">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
