@@ -99,7 +99,7 @@
       <h3 align="center">Voice to Image AI generator</h3>
         <br />
         <a target="_blank" href="[https://medical-pager-demo.netlify.app/](https://github.com/DailyDisco/AI-voice-to-image)">
-            <img src="AI.gif" width="100%" alt="Medical Pager app"/>
+            <img src="images/socialCover.jpg" width="100%" alt="Medical Pager app"/>
         </a>
         <br />
         <p align="center">
