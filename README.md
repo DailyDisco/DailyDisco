@@ -81,7 +81,7 @@
       <h3 align="center">The Daily Disco</h3>
         <br />
       <a target='https://github.com/DailyDisco/the-template'>
-            <img src="template.gif" width="100%"  alt="Portfolio"/>
+            <img src="socialCover.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
