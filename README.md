@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>Medical Pager demo app with security and privacy.</p>
+        <p><strong>AI Book Illustrations.</p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
@@ -123,12 +123,9 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>Medical Pager demo app with security and privacy.</p>
+        <p><strong>Immersive books using stable diffusion.</p>
     </td>
   </tr>
-
-
-
 </table>
 
 <!--
