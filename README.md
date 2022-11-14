@@ -111,6 +111,23 @@
         <p><strong>Medical Pager demo app with security and privacy.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
+        <br />
+<!--         <a target="_blank" href="https://medical-pager-demo.netlify.app/"> -->
+            <img src="images/GifTunaHackathon.gif" width="100%" alt="AI book illustrator app"/>
+<!--         </a> -->
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/DailyDisco/medical-pager" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>Medical Pager demo app with security and privacy.</p>
+    </td>
+  </tr>
 </table>
 
 <!--
