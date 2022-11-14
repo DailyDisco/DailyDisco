@@ -78,19 +78,19 @@
         <p><strong>This branding-generator-ai is used to generate descriptions for products or services that someone may be selling. The descriptions can easily be tweaked to be longer, or shorter, and can also be modified for generating other types of text.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">The Daily Disco</h3>
         <br />
-      <a target="_blank" href="https://www.digitaldiego.xyz/">
-            <img src="images/shortestPortfolio.gif" width="100%"  alt="Portfolio"/>
+      <a target="_blank" href=["https://www.digitaldiego.xyz/"](https://github.com/DailyDisco/the-template)>
+            <img src="template.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/DailyDisco/react-portfolio-website" target="_blank">
+  <a href="[https://github.com/DailyDisco/react-portfolio-website"](https://github.com/DailyDisco/the-template) target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>This is the personal portfolio site that I use.</p>
+        <p><strong>This is my personal social media site that I have been creating for AI generated pictures and AI application tutorials</p>
     </td>
   </tr>
   
