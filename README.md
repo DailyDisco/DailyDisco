@@ -110,9 +110,7 @@
       </p>
         <p><strong>Medical Pager demo app with security and privacy.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+        <td width="50%" valign="top">
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
         <br />
 <!--         <a target="_blank" href="https://medical-pager-demo.netlify.app/"> -->
@@ -128,6 +126,9 @@
         <p><strong>Medical Pager demo app with security and privacy.</p>
     </td>
   </tr>
+
+
+
 </table>
 
 <!--
