@@ -80,9 +80,11 @@
     <td width="50%" valign="top">
       <h3 align="center">The Daily Disco</h3>
         <br />
+      <p align='center'>
       <a target='https://github.com/DailyDisco/the-template'>
-            <img src="images/socialCover1.jpg" width="100%"  alt="Portfolio"/>
+            <img src="images/socialCover1.jpg" width="100%"  alt="Social Media Homepage"/>
         </a>
+      </p>
         <br />
         <p align="center">
           
