@@ -68,7 +68,7 @@
         <img src="images/socialCover1.jpg" width="100%"  alt="Portfolio"/>
       </a>
         <br />
-        <p align="center">
+      <p align="center"></p>
           
       <a href='https://thedailydisco.vercel.app/'>
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -83,12 +83,11 @@
             <img src="images/ezgif.com-gif-maker.gif" width="100%" alt="AI book illustrator app"/>
         </a>
         <br />
-        <p align="center">
+        <p align="center"></p>
           
   <a href="https://github.com/DailyDisco/stable-diffusion-hackathon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-      </p>
         <p><strong>Immersive books using stable diffusion.</p>
     </td>
   </tr>
@@ -101,12 +100,11 @@
             <img src="" width="100%" alt="Voice2img generator"/>
         </a>
         <br />
-        <p align="center">
+        <p align="center"> </p>
           
   <a href="https://github.com/DailyDisco/AI-voice-to-image">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-      </p>
         <p>Generate AI images using your voice!</p>
     </td>
     <td width="50%" valign="top">
@@ -116,12 +114,11 @@
             <img src="images/brandingGeneratorShort.gif" width="100%" alt="resume bio generator"/>
         </a>
         <br />
-        <p align="center">
+        <p align="center"></p>
           
   <a href="https://github.com/DailyDisco/branding-generator-ai" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-      </p>
         <p><strong>This branding-generator-ai is used to generate descriptions for products or services that someone may be selling. The descriptions can easily be tweaked to be longer, or shorter, and can also be modified for generating other types of text.</p>
     </td>
   </tr>
