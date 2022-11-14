@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>AI Book Illustrations.</p>
+        <p>A medical office messaging app with many features.</p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
@@ -119,7 +119,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/DailyDisco/medical-pager" target="_blank">
+  <a href="https://github.com/DailyDisco/stable-diffusion-hackathon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
