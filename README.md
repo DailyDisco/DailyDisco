@@ -88,7 +88,7 @@
         <br />
         <p align="center">
           
-  <a href='https://thedailydisco.vercel.app/'>
+  <a href="https://github.com/DailyDisco/the-template">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
