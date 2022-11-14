@@ -85,7 +85,7 @@
         </a>
         <br />
         <p align="center">
-          <a href='https://thedailydisco.vercel.app/'>
+          <a href="https://thedailydisco.vercel.app/">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>
       </p>
@@ -97,7 +97,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Voice to Image AI generator</h3>
         <br />
-        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
+        <a target="_blank" href="https://github.com/DailyDisco/AI-voice-to-image">
             <img src="" width="100%" alt="Voice2img generator"/>
         </a>
         <br />
