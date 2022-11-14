@@ -96,19 +96,19 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Medical Pager</h3>
+      <h3 align="center">Voice to Image AI generator</h3>
         <br />
-        <a target="_blank" href="https://medical-pager-demo.netlify.app/">
-            <img src="images/medicalPagerShorter.gif" width="100%" alt="Medical Pager app"/>
+        <a target="_blank" href="[https://medical-pager-demo.netlify.app/](https://github.com/DailyDisco/AI-voice-to-image)">
+            <img src="AI.gif" width="100%" alt="Medical Pager app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/DailyDisco/medical-pager" target="_blank">
+  <a href="[https://github.com/DailyDisco/medical-pager](https://github.com/DailyDisco/AI-voice-to-image)" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p>A medical office messaging app with many features.</p>
+        <p>Generate AI images using your voice!</p>
     </td>
         <td width="50%" valign="top">
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
