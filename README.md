@@ -60,14 +60,13 @@
 
 # <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">The Daily Disco</h3>
-        <br />
+      <br />
       <a target='https://github.com/DailyDisco/the-template'>
-            <img src="images/socialCover1.jpg" width="100%"  alt="Portfolio"/>
-        </a>
+        <img src="images/socialCover1.jpg" width="100%"  alt="Portfolio"/>
+      </a>
         <br />
         <p align="center">
           
