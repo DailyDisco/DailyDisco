@@ -62,7 +62,6 @@
 <table bordercolor="#66b2b2">
 
   <tr>
-    
     <td width="50%" valign="top">
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
         <br />
@@ -92,7 +91,6 @@
       </p>
         <p><strong>This is my personal social media site that I have been creating for AI generated pictures and AI application tutorials</p>
     </td>
-    
   </tr>
   
   <tr>
