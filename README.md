@@ -116,7 +116,7 @@
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
         <br />
 <!--         <a target="_blank" href="https://medical-pager-demo.netlify.app/"> -->
-            <img src="images/GifTunaHackathon.gif" width="100%" alt="AI book illustrator app"/>
+            <img src="images/realgifBooks.gif" width="100%" alt="AI book illustrator app"/>
 <!--         </a> -->
         <br />
         <p align="center">
