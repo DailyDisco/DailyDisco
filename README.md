@@ -80,13 +80,13 @@
     <td width="50%" valign="top">
       <h3 align="center">The Daily Disco</h3>
         <br />
-      <a target="_blank" href=["https://www.digitaldiego.xyz/"](https://github.com/DailyDisco/the-template)>
+      <a target='https://github.com/DailyDisco/the-template'>
             <img src="template.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="[https://github.com/DailyDisco/react-portfolio-website"](https://github.com/DailyDisco/the-template) target="_blank">
+  <a href=["[https://github.com/DailyDisco/react-portfolio-website"](https://github.com/DailyDisco/the-template) target="_blank"](https://github.com/DailyDisco/the-template)>
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
@@ -114,7 +114,7 @@
       <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
         <br />
         <a target="_blank" href="https://github.com/DailyDisco/stable-diffusion-hackathon">
-            <img src="images/ezgif.com-gif-maker.gif width="100%" alt="AI book illustrator app"/>
+            <img src="images/ezgif.com-gif-maker.gif" width="100%" alt="AI book illustrator app"/>
         </a>
         <br />
         <p align="center">
