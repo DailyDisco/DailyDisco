@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **Any Hackathons**
 
-- 🤝 I’m looking for help with **Converting a Next.JS/AWS app into an IOS deployable app using React Native**
+- 🤝 I’m looking for help with **Creating persistent localstorage across page renders on Next.JS**
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
