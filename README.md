@@ -20,7 +20,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Networking and updating my GitHub with better documentation**
+- 🔭 I’m currently working on **Networking and The Daily Disco**
 
 - 🌱 I’m currently learning **Machine Learning, Neural Networks, AWS Cloud**
 
