@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **Any Hackathons**
 
-- 🤝 I’m looking for help with **Creating persistent localstorage across page renders on Next.JS due to SSR**
+- 🤝 I’m looking for help with **Connecting NEXT Auth with Firebase**
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
