@@ -22,11 +22,11 @@
 
 - 🔭 I’m currently working on **Networking and The Daily Disco**
 
-- 🌱 I’m currently learning **Machine Learning, Neural Networks, AWS Cloud**
+- 🌱 I’m currently learning **Next JS, Machine Learning, Neural Networks, Cloud**
 
 - 👯 I’m looking to collaborate on **Any Hackathons**
 
-- 🤝 I’m looking for help with **Connecting NEXT Auth with Firebase**
+- 🤝 I’m looking for help with **Connecting NEXT Auth with Firebase Adapter**
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
