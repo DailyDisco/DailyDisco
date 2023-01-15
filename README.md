@@ -109,21 +109,6 @@
       </p>
         <p>Generate AI images using your voice!</p>
     </td>
-        <td width="50%" valign="top">
-      <h3 align="center">AI Book Illustrations - Hackathon Project</h3>
-        <br />
-        <a target="_blank" href="https://github.com/DailyDisco/stable-diffusion-hackathon">
-            <img src="images/ezgif.com-gif-maker.gif" width="100%" alt="AI book illustrator app"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/DailyDisco/stable-diffusion-hackathon" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-      </p>
-        <p><strong>Immersive books using stable diffusion.</p>
-    </td>
   </tr>
 </table>
 
