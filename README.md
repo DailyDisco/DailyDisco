@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **Any Hackathons**
 
-- 🤝 I’m looking for help with **Connecting NEXT Auth with Firebase Adapter**
+<!-- - 🤝 I’m looking for help with **Connecting NEXT Auth with Firebase Adapter** -->
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
