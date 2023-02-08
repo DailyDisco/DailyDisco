@@ -93,6 +93,7 @@
     </td>
   </tr>
   
+ <!--
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Voice to Image AI generator</h3>
@@ -110,6 +111,7 @@
         <p>Generate AI images using your voice!</p>
     </td>
   </tr>
+  -->
 </table>
 
 <!--
