@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Meeting more developers, an AI social media site named, "The Daily Disco", and coding tutorials for my blog**
 
-- 🌱 I’m currently learning **Machine Learning, Neural Networks, AWS Cloud services, and Audio related open source software**
+- 🌱 I’m currently learning **Machine Learning, Neural Networks, AWS Cloud services, and Audio related open source software such as Juce**
 
 - 👯 I’m looking to collaborate on **Any Hackathons**
 
