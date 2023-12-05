@@ -62,24 +62,24 @@
 
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Voice to Image AI generator</h3>
+      <h3 align="center">My Portfolio</h3>
         <br />
-        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
-            <img src="" width="100%" alt="Voice2img generator"/>
+        <a target="_blank" href='https://github.com/DailyDisco/react-portfolio-site'>
+            <img src="images/portfolio.png" width="100%" alt="Voice2img generator"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/DailyDisco/AI-voice-to-image">
+  <a href="https://github.com/DailyDisco/react-portfolio-site">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p>Generate AI images using your voice!</p>
+        <p>My Personal Portfolio showing my projects.</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">Electric Realm</h3>
         <br />
-        <a target="_blank" href='https://github.com/DailyDisco/AI-voice-to-image'>
+        <a target="_blank" href='https://github.com/DailyDisco/electric-realm'>
             <img src="images/ElectricRealm.png" width="100%" alt="Electric Realm Music Site"/>
         </a>
         <br />
