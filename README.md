@@ -79,7 +79,7 @@
      <td width="50%" valign="top">
       <h3 align="center">Electric Realm</h3>
         <br />
-        <a target="_blank" href='https://www.electric-realm.vercel.app'>
+        <a target="_blank" href='https://electric-realm.vercel.app'>
             <img src="images/ElectricRealm.png" width="100%" alt="Electric Realm Music Site"/>
         </a>
         <br />
