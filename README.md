@@ -64,7 +64,7 @@
   <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br />
-        <a target="_blank" href='digitaldiego.xyz'>
+        <a target="_blank" href='https.digitaldiego.xyz'>
             <img src="images/portfolio.png" width="100%" alt="Portfolio Home Page"/>
         </a>
         <br />
@@ -79,7 +79,7 @@
      <td width="50%" valign="top">
       <h3 align="center">Electric Realm</h3>
         <br />
-        <a target="_blank" href='electric-realm.vercel.app'>
+        <a target="_blank" href='https.electric-realm.vercel.app'>
             <img src="images/ElectricRealm.png" width="100%" alt="Electric Realm Music Site"/>
         </a>
         <br />
