@@ -80,24 +80,6 @@
         <p>My Personal Portfolio showing my projects.</p>
     </td>
      <td width="50%" valign="top">
-      <h3 align="center">Electric Realm</h3>
-        <br />
-        <a target="_blank" href='https://electric-realm.vercel.app'>
-            <img src="images/ElectricRealm.png" width="100%" alt="Electric Realm Music Site"/>
-        </a>
-        <br />
-        <p align="center">
-
-  <a href="https://github.com/DailyDisco/electric-realm">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-      </p>
-        <p>A place to discover, share, and talk all things sound</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">The Daily Disco</h3>
         <br />
       <p align='center'>
@@ -113,6 +95,24 @@
   </a>
       </p>
         <p><strong>Social media site where users can post AI generate images and also hosts AI tutorials.</p>
+    </td> 
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Electric Realm</h3>
+        <br />
+        <a target="_blank" href='https://electric-realm.vercel.app'>
+            <img src="images/ElectricRealm.png" width="100%" alt="Electric Realm Music Site"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/DailyDisco/electric-realm">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p>A place to discover, share, and talk all things sound</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">AI Marketing Text generator</h3>
