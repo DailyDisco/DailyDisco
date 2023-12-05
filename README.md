@@ -101,14 +101,14 @@
       <h3 align="center">The Daily Disco</h3>
         <br />
       <p align='center'>
-      <a target="[https://thedailydisco.vercel.app](https://thedailydisco.vercel.app/)">
+      <a target="_blank" href="https://thedailydisco.vercel.app">
             <img src="images/socialCover1.jpg" width="100%"  alt="Social Media Homepage"/>
       </a>
       </p>
         <br />
         <p align="center">
           
-  <a href="https://thedailydisco.vercel.app/">
+  <a href="https://github.com/DailyDisco/DailyDisco"> 
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
