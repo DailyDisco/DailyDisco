@@ -64,8 +64,8 @@
   <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br />
-        <a target="_blank" href='https://github.com/DailyDisco/react-portfolio-site'>
-            <img src="images/portfolio.png" width="100%" alt="Voice2img generator"/>
+        <a target="_blank" href='digitaldiego.xyz'>
+            <img src="images/portfolio.png" width="100%" alt="Portfolio Home Page"/>
         </a>
         <br />
         <p align="center">
@@ -79,7 +79,7 @@
      <td width="50%" valign="top">
       <h3 align="center">Electric Realm</h3>
         <br />
-        <a target="_blank" href='https://github.com/DailyDisco/electric-realm'>
+        <a target="_blank" href='electric-realm.vercel.app'>
             <img src="images/ElectricRealm.png" width="100%" alt="Electric Realm Music Site"/>
         </a>
         <br />
