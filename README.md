@@ -101,9 +101,9 @@
       <h3 align="center">The Daily Disco</h3>
         <br />
       <p align='center'>
-      <a target="https://thedailydisco.vercel.app">
+      <a target="[https://thedailydisco.vercel.app](https://thedailydisco.vercel.app/)">
             <img src="images/socialCover1.jpg" width="100%"  alt="Social Media Homepage"/>
-        </a>
+      </a>
       </p>
         <br />
         <p align="center">
