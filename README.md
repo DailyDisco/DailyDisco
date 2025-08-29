@@ -24,17 +24,15 @@
 
 - 🔭 I’m currently working on **Meeting more developers, a local music label's website, and coding tutorials for my blog**
 
-- 🌱 I’m currently learning **Machine Learning, AWS Cloud services, and Audio related open source software such as Juce**
+- 🌱 I’m currently learning **Golang, Machine Learning, AWS Cloud services**
 
-- 👯 I’m looking to collaborate on **Any Hackathons, AI related projects, or React Native projects.**
+- 👯 I’m looking to collaborate on **Any Hackathons, AI related projects, or React / Next JS/ React Native projects with Golang backends.**
 
 <!-- - 🤝 I’m looking for help with **Connecting NEXT Auth with Firebase Adapter** -->
 
 - 👨‍💻 All of my projects are available at [http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/)
 
-- 📫 How to reach me: **diegoespinowork@gmail.com, Twitter, or LinkedIn**
-
-- 📄 My experiences and resume: [https://tinyurl.com/yc2f2d7b](https://tinyurl.com/yc2f2d7b)
+- 📫 How to reach me: **diegoespinowork@gmail.com or LinkedIn**
 
 - ⚡ Fun facts: **I speak English, Spanish and I am learning Japanese. I love anime and all kinds of films. I am also learning how to play the piano, and love to produce Bass music in Ableton!**
 
