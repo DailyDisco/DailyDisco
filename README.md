@@ -197,7 +197,7 @@ Ableton!**
       <p>My Personal Portfolio showing my projects.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">AI Marketing Text Generator</h3>
+      <h3 align="center">React + Golang Starter Kit Template</h3>
       <br />
       <a target="_blank" href="https://react-golang-starter-kit.vercel.app/">
         <img
