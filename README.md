@@ -257,24 +257,20 @@ Ableton!**
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Electric Realm</h3>
+      <h3 align="center">Photography Portfolio Site Open Source</h3>
       <br />
-      <a target="_blank" href="https://electric-realm.vercel.app">
-        <img
-          src="images/ElectricRealm.png"
-          width="100%"
-          alt="Electric Realm Music Site"
-        />
+      <a target="_blank" href="https://photography-videography-portfolio-site-production.up.railway.app/">
+        <img width="1440" height="796" alt="image" src="https://github.com/user-attachments/assets/370244b9-ed3a-4f10-b43e-138c8b004e15" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/DailyDisco/electric-realm">
+        <a href="https://github.com/DailyDisco/photography-videography-portfolio-site">
           <img
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
         </a>
       </p>
-      <p>A place to discover, share, and talk all things sound</p>
+      <p>A portfolio site for photgraphers to show off their work!</p>
     </td>
   </tr>
 </table>
