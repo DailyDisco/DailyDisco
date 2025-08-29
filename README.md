@@ -1,309 +1,200 @@
-<!-- img src="" width="100%"> -->
-<h1 align="center">Hi 👋, I'm Diego or just D</h1>
-<h3 align="center">A software engineer passionate about AI</h3>
+<h1 align="center">Hi 👋, I'm Diego (D)</h1>
+<h3 align="center">Software Engineer | AI Enthusiast | Full-Stack Developer</h3>
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dailydisco&label=Profile%20views&color=0e75b6&style=flat" alt="dailydisco" /> </p>
--->
 <p align="center">
   <a href="https://www.digitaldiego.xyz/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/developerdiego/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- 
-  <a href="https://twitter.com/digitaIDiego" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  -->
   <a href="https://tinyurl.com/yc2f2d7b" target="_blank">
-    <img
-      src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=About.me&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:diegoespinowork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-- 🔭 I'm currently working on **Meeting more developers, a local music label's
-website, and coding tutorials for my blog** - 🌱 I'm currently learning
-**Golang, Machine Learning, AWS Cloud services** - 👯 I'm looking to collaborate
-on **Any Hackathons, AI related projects, or React / Next JS/ React Native
-projects with Golang backends.**
+---
 
-<!-- - 🤝 I'm looking for help with **Connecting NEXT Auth with Firebase Adapter** -->
+<h2>🚀 About Me</h2>
 
-- 👨‍💻 All of my projects are available at
-[http://www.digitaldiego.xyz/](http://www.digitaldiego.xyz/) - 📫 How to reach
-me: **diegoespinowork@gmail.com or LinkedIn** - ⚡ Fun facts: **I speak English,
-Spanish and I am learning Japanese. I love anime and all kinds of films. I am
-also learning how to play the piano, and love to produce Bass music in
-Ableton!**
+<p>I'm a passionate full-stack developer with a deep interest in AI and modern web technologies. I love building scalable applications and contributing to the open-source community.</p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <!-- <a href="https://twitter.com/digitaIDiego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="digitalDiego" height="30" width="40" /></a> -->
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/developerdiego/"
-    target="blank"
-  >
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/developerdiego/"
-      height="30"
-      width="40"
-    />
-  </a>
+<ul>
+  <li>🔭 <strong>Currently working on:</strong> Meeting more developers, a local music label's website, and coding tutorials for my blog</li>
+  <li>🌱 <strong>Currently learning:</strong> Golang, Machine Learning, AWS Cloud Services</li>
+  <li>👯 <strong>Looking to collaborate on:</strong> Hackathons, AI projects, React/Next.js/React Native with Golang backends</li>
+  <li>💬 <strong>Ask me about:</strong> React, Node.js, Python, AI/ML, or anything tech-related</li>
+  <li>📫 <strong>Reach me:</strong> diegoespinowork@gmail.com</li>
+  <li>🌍 <strong>Languages:</strong> English, Spanish, Learning Japanese</li>
+  <li>🎵 <strong>Fun fact:</strong> I produce Bass music in Ableton and I'm learning piano!</li>
+</ul>
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
+<h3>Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dailydisco&show_icons=true&locale=en&layout=compact" alt="dailydisco" /></p> -->
+<h3>Database & Cloud</h3>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+</p>
 
-<!--
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dailydisco&show_icons=true&locale=en" alt="dailydisco" /></p>
--->
+<h3>Tools & Others</h3>
+<p>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dailydisco&" alt="dailydisco" /></p> -->
+---
 
-<h1 align="center">Projects</h1>
+<h2>🌟 Featured Projects</h2>
 
-<table bordercolor="#66b2b2">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">My Portfolio</h3>
-      <br />
-      <a target="_blank" href="https://www.digitaldiego.xyz">
-        <img
-          src="images/portfolio.png"
-          width="100%"
-          alt="Portfolio Home Page"
-        />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/DailyDisco/react-portfolio-website">
-          <img
-            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
-          />
-        </a>
-      </p>
-      <p>My Personal Portfolio showing my projects.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">React + Golang Starter Kit Template</h3>
+      <h3 align="center">🚀 React + Golang Starter Kit</h3>
+      <p align="center"><strong>Production-ready full-stack template</strong></p>
       <br />
       <a target="_blank" href="https://react-golang-starter-kit.vercel.app/">
-        <img
-          width="100%"
-          alt="react-golang-starter-kit"
-          src="https://github.com/user-attachments/assets/e239751b-9c68-46aa-b90c-0dbbd90c2d81"
-        />
+        <img width="100%" alt="react-golang-starter-kit" src="https://github.com/user-attachments/assets/e239751b-9c68-46aa-b90c-0dbbd90c2d81"/>
       </a>
       <br />
       <p align="center">
-        <a
-          href="https://github.com/DailyDisco/react-golang-starter-kit"
-          target="_blank"
-        >
-          <img
-            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
-          />
+        <a href="https://github.com/DailyDisco/react-golang-starter-kit" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://react-golang-starter-kit.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" alt="Live Demo"/>
         </a>
       </p>
-      <p>
-        <strong
-          >🚀 Production-ready starter kit with React frontend (Vite,
-          TailwindCSS, ShadCN UI) and Go backend (Fiber, GORM). Includes Docker,
-          testing, CI/CD, and live demo. Perfect for rapid full-stack
-          development!</strong
-        >
+      <p><strong>Tech:</strong> React (Vite), TailwindCSS, ShadCN UI, Go (Fiber), GORM</p>
+      <p><strong>Features:</strong> Docker, Testing, CI/CD, Live Demo</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Portfolio Website</h3>
+      <p align="center"><strong>Personal portfolio showcasing projects and skills</strong></p>
+      <br />
+      <a target="_blank" href="https://www.digitaldiego.xyz">
+        <img src="images/portfolio.png" width="100%" alt="Portfolio Home Page"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/DailyDisco/react-portfolio-website" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://www.digitaldiego.xyz" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" alt="Live Demo"/>
+        </a>
       </p>
+      <p><strong>Tech:</strong> React, Modern UI/UX</p>
+      <p><strong>Features:</strong> Responsive design, Project showcase, Contact form</p>
     </td>
   </tr>
-
+  
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">The Daily Disco</h3>
+      <h3 align="center">🎵 The Daily Disco</h3>
+      <p align="center"><strong>AI-powered social media platform</strong></p>
       <br />
-      <p align="center">
-        <a target="_blank" href="https://thedailydisco.vercel.app">
-          <img
-            src="images/socialCover1.jpg"
-            width="100%"
-            alt="Social Media Homepage"
-          />
-        </a>
-      </p>
-      <br />
-      <p align="center">
-        <a href="https://github.com/DailyDisco/DailyDisco">
-          <img
-            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
-          />
-        </a>
-      </p>
-      <p>
-        <strong
-          >Social media site where users can post AI generate images and also
-          hosts AI tutorials.</strong
-        >
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Photography Portfolio Site Open Source</h3>
-      <br />
-      <a target="_blank" href="https://photography-videography-portfolio-site-production.up.railway.app/">
-        <img width="1440" height="796" alt="image" src="https://github.com/user-attachments/assets/370244b9-ed3a-4f10-b43e-138c8b004e15" />
+      <a target="_blank" href="https://thedailydisco.vercel.app">
+        <img src="images/socialCover1.jpg" width="100%" alt="Social Media Homepage"/>
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/DailyDisco/photography-videography-portfolio-site">
-          <img
-            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
-          />
+        <a href="https://github.com/DailyDisco/DailyDisco" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://thedailydisco.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" alt="Live Demo"/>
         </a>
       </p>
-      <p>A portfolio site for photgraphers to show off their work!</p>
+      <p><strong>Tech:</strong> React, Node.js, AI Integration</p>
+      <p><strong>Features:</strong> AI image generation, Tutorials, Social features</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📸 Photography Portfolio Template</h3>
+      <p align="center"><strong>Open-source portfolio for photographers</strong></p>
+      <br />
+      <a target="_blank" href="https://photography-videography-portfolio-site-production.up.railway.app/">
+        <img width="100%" alt="Photography Portfolio" src="https://github.com/user-attachments/assets/370244b9-ed3a-4f10-b43e-138c8b004e15"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/DailyDisco/photography-videography-portfolio-site" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://photography-videography-portfolio-site-production.up.railway.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" alt="Live Demo"/>
+        </a>
+      </p>
+      <p><strong>Tech:</strong> Modern web technologies</p>
+      <p><strong>Features:</strong> Gallery showcase, Responsive design, Easy customization</p>
     </td>
   </tr>
 </table>
 
-<!--
+---
+
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <a href="https://www.digitaldiego.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/developerdiego/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/digitaIDiego" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://tinyurl.com/yc2f2d7b" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dailydisco&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dailydisco&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailydisco&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<h2>🤝 Let's Connect!</h2>
+
+<p>I'm always interested in collaborating on exciting projects, especially those involving:</p>
+<ul>
+  <li><strong>AI/Machine Learning applications</strong></li>
+  <li><strong>Full-stack web development</strong></li>
+  <li><strong>Open-source contributions</strong></li>
+  <li><strong>Hackathons and coding challenges</strong></li>
+</ul>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/developerdiego/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
-<!--
+---
+
 <p align="center">
-  <a href="https://www.digitaldiego.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/developerdiego/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/digitaIDiego" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://tinyurl.com/yc2f2d7b" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
+  <i>"Code is poetry written in logic"</i>
 </p>
--->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dailydisco&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
