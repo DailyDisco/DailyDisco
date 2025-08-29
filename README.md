@@ -164,10 +164,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dailydisco&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailydisco&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
@@ -187,12 +183,6 @@
   <a href="https://www.linkedin.com/in/developerdiego/">
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code is poetry written in logic"</i>
 </p>
 
 <p align="center">
