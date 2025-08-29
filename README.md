@@ -115,17 +115,19 @@
     <td width="50%" valign="top">
       <h3 align="center">AI Marketing Text generator</h3>
         <br />
-        <a target="_blank" href="https://resume-bio-generator.vercel.app/">
-            <img src="images/brandingGeneratorShort.gif" width="100%" alt="resume bio generator"/>
+        <a target="_blank" href="https://react-golang-starter-kit.vercel.app/">
+            <img width="1440" height="794" alt="react-golang-starter-kit" src="https://github.com/user-attachments/assets/e239751b-9c68-46aa-b90c-0dbbd90c2d81" />
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/DailyDisco/branding-generator-ai" target="_blank">
+  <a href="https://github.com/DailyDisco/react-golang-starter-kit" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>This branding-generator-ai is used to generate descriptions for products or services that someone may be selling. The descriptions can easily be tweaked to be longer, or shorter, and can also be modified for generating other types of text.</p>
+        <p><strong>🚀 Production-ready starter kit with React frontend (Vite, TailwindCSS, ShadCN UI) and Go backend (Fiber, GORM). Includes Docker, testing, CI/CD, and live demo. Perfect for rapid full-stack development!
+
+</p>
     </td>
   </tr>
  
