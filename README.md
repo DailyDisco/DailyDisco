@@ -15,6 +15,7 @@ Recent work on the ExLlamaV3 inference stack:
 ## Projects
 
 - **[react-golang-starter-kit](https://github.com/DailyDisco/react-golang-starter-kit)**. A SaaS starter with React 19, TanStack Router and Query on the front end and Go with Chi, GORM and PostgreSQL on the back end. It comes with JWT auth with 2FA and OAuth, multi-tenant organizations with role-based access, Stripe billing, background jobs, WebSockets, Prometheus and Grafana, and CI/CD. It also ships its own agent setup (a CLAUDE.md, pattern-checking hooks, scaffolding skills and decision records), so coding agents follow the project's conventions. [Live demo](https://react-golang-starter-kit.vercel.app)
+- **[claude-code-setup](https://github.com/DailyDisco/claude-code-setup)**. The rules, skills, hooks and agents I use with Claude Code every day: 16 rule files, 42 skills, 45 hooks and six specialist agents, with everything tied to my own machines taken out.
 - **[linkedin-recommendation-writer](https://github.com/DailyDisco/linkedin-recommendation-writer)**. Reads a developer's GitHub activity and drafts a LinkedIn recommendation from it. FastAPI, React, TypeScript and Gemini.
 - **[photography-videography-portfolio-site](https://github.com/DailyDisco/photography-videography-portfolio-site)**. A portfolio site for photographers and videographers with categorized galleries, bookings and Stripe payments. React, Tailwind CSS, ShadCN UI and Go.
 
@@ -23,7 +24,7 @@ Recent work on the ExLlamaV3 inference stack:
 Most of what I build for myself lives in private repos because it is wired to my own machines. The short version:
 
 - **Local inference.** Six RTX 3090s serving open-weight models through ExLlamaV3 and TabbyAPI behind an OpenAI-compatible gateway, shared by the coding agents on all my machines. The upstream fixes above came out of tuning it.
-- **Agent tooling.** One shared set of rules and skills for Claude Code and Codex, kept in sync across Linux, macOS and Windows by an installer that previews, verifies and can roll back.
+- **Agent tooling.** One shared set of rules and skills for Claude Code and Codex, kept in sync across Linux, macOS and Windows by an installer that previews, verifies and can roll back. A public copy of the rules, skills and hooks is in [claude-code-setup](https://github.com/DailyDisco/claude-code-setup).
 - **Homelab.** Proxmox VMs provisioned by a bootstrap script I maintain (Tailscale-only SSH, metrics and logs from first boot), and a Docker Compose stack of a dozen self-hosted services behind Caddy.
 - **Ops dashboard.** A single Go binary, standard library only, with an embedded React front end that shows the state of my scheduled automations.
 
