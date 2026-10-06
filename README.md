@@ -14,9 +14,25 @@ Recent work on the ExLlamaV3 inference stack:
 
 ## Projects
 
-- **[react-golang-starter-kit](https://github.com/DailyDisco/react-golang-starter-kit)**. A SaaS starter with React 19, TanStack Router and Query on the front end and Go with Chi, GORM and PostgreSQL on the back end. It comes with JWT auth with 2FA and OAuth, multi-tenant organizations with role-based access, Stripe billing, background jobs, WebSockets, Prometheus and Grafana, and CI/CD. [Live demo](https://react-golang-starter-kit.vercel.app)
+- **[react-golang-starter-kit](https://github.com/DailyDisco/react-golang-starter-kit)**. A SaaS starter with React 19, TanStack Router and Query on the front end and Go with Chi, GORM and PostgreSQL on the back end. It comes with JWT auth with 2FA and OAuth, multi-tenant organizations with role-based access, Stripe billing, background jobs, WebSockets, Prometheus and Grafana, and CI/CD. It also ships its own agent setup (a CLAUDE.md, pattern-checking hooks, scaffolding skills and decision records), so coding agents follow the project's conventions. [Live demo](https://react-golang-starter-kit.vercel.app)
 - **[linkedin-recommendation-writer](https://github.com/DailyDisco/linkedin-recommendation-writer)**. Reads a developer's GitHub activity and drafts a LinkedIn recommendation from it. FastAPI, React, TypeScript and Gemini.
-- **[photography-videography-portfolio-site](https://github.com/DailyDisco/photography-videography-portfolio-site)**. An open-source portfolio template for photographers and videographers. React, Tailwind CSS, ShadCN UI and Go.
+- **[photography-videography-portfolio-site](https://github.com/DailyDisco/photography-videography-portfolio-site)**. A portfolio site for photographers and videographers with categorized galleries, bookings and Stripe payments. React, Tailwind CSS, ShadCN UI and Go.
+
+## What I run
+
+Most of what I build for myself lives in private repos because it is wired to my own machines. The short version:
+
+- **Local inference.** Six RTX 3090s serving open-weight models through ExLlamaV3 and TabbyAPI behind an OpenAI-compatible gateway, shared by the coding agents on all my machines. The upstream fixes above came out of tuning it.
+- **Agent tooling.** One shared set of rules and skills for Claude Code and Codex, kept in sync across Linux, macOS and Windows by an installer that previews, verifies and can roll back.
+- **Homelab.** Proxmox VMs provisioned by a bootstrap script I maintain (Tailscale-only SSH, metrics and logs from first boot), and a Docker Compose stack of a dozen self-hosted services behind Caddy.
+- **Ops dashboard.** A single Go binary, standard library only, with an embedded React front end that shows the state of my scheduled automations.
+
+## How I work
+
+- Small pull requests with conventional commits that explain why.
+- Tests check behavior, not implementation.
+- Measure before and after any performance change.
+- A dashboard never shows missing data as healthy.
 
 ## What I work with
 
