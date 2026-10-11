@@ -23,7 +23,7 @@ My consulting work runs through Lumara, including my primary engagement with DFW
 
 ## Infrastructure I run
 
-- **Local AI:** six NVIDIA RTX 3090 GPUs with 144 GB of combined GPU memory, ExLlamaV3 and TabbyAPI, and an OpenAI-compatible gateway for coding agents.
+- **Local AI:** seven NVIDIA RTX 3090 GPUs with 168 GiB of combined GPU memory, ExLlamaV3 and TabbyAPI, and an OpenAI-compatible gateway for coding agents.
 - **Homelab:** Proxmox VMs, Linux, Docker Compose and Caddy. I maintain provisioning scripts with Tailscale-only SSH, metrics and logs from first boot.
 - **Developer tooling:** shared agent configuration across Linux, macOS and Windows, with preview, verification and rollback. A Go service with an embedded React frontend monitors scheduled automations.
 
@@ -41,4 +41,4 @@ I measure performance changes, test failure and recovery paths, and keep rollbac
 
 **Certifications:** AWS Certified Developer - Associate and AWS Certified Cloud Practitioner.
 
-Outside of code, I produce bass music in Ableton and I'm learning piano. I speak English and Spanish and I'm learning Japanese.
+I speak English and Spanish and I'm learning Japanese.
