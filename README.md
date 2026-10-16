@@ -8,7 +8,7 @@ I also build and run my own GPU inference systems. That work has led to merged p
 
 ## Recent work
 
-I began freelancing and consulting in 2021 and founded Lumara in 2025. I work as a Full Stack Engineer (Contract) at DFW Software Consulting and Craft Digital through Lumara, with DFW as my primary engagement.
+I began freelancing and consulting in 2021 and founded Lumara in 2025. I work as a Full Stack Engineer at DFW Software Consulting and Craft Digital through Lumara, with DFW as my primary engagement.
 
 - **Full-stack delivery at DFW Software Consulting.** Architecture, data modeling and releases for a property platform serving 1,000+ units. Invoicing and reporting automation reduced daily administrative work from 3 hours to 1 hour per employee. I also led a five-developer team building a truck damage estimator with image analysis and VIN extraction.
 - **Cloud migration at Craft Digital.** Migrated seven production lead-intake workflows from Kestra on AWS to n8n on Railway for Joshua Tree Experts. Built durable intake, reporting pipelines for 27 franchise locations plus corporate, and PostgreSQL dashboard readers with tenant-scoped access and consistent snapshots.
